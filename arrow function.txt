@@ -7,7 +7,7 @@
                        function title (str) {
                        return str .split(' ').map((word) => word.toUpperCase()).join(' ')
                          };
-                       console.log(title("Vigneshwar BE Mechanical Engineering"));
+                       console.log(title("PRASANTH"));
  c)sum of numbers in an array :
                        let arr = [22,24,55,64];
                        let sum = arr.reduce((a,b) => a+b);
